@@ -1,5 +1,5 @@
 # Twitter-Sentiment-Analysis-using-Python
-The computational process to determine whether the tweet is positive, negative or neutral. It’s also known as opinion mining, done to know the attitude/emotion of a speaker.
+The computational process of identifying and extracting the subjective information that underlies a text. This can be either a judgement or opinion in a positive, negative or neutral way based on polarity. It’s also known as 'opinion mining', 'polarity detection'.Sentiment analysis is particularly useful for social media monitoring because it goes beyond the number of likes or retweets, by providing qualitative insights.
 
 ![1_vp1M37AGMOFwCvLxVm62IA](https://user-images.githubusercontent.com/67041715/93003231-97bf9b80-f55a-11ea-8ab8-93e1b38e84a8.jpeg)
 

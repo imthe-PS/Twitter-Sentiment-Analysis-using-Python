@@ -20,3 +20,5 @@ The computational process to determine whether the tweet is positive, negative o
 -- Based on polarity separate tweets as positive, negative or neutral
 
 -- Finally based on your requirement plot the graph 
+
+## In this Project I have analysed ViratKohli's twitter data
